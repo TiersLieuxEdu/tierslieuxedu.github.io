@@ -1,1 +1,350 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Point","coordinates":[1.2523779,45.8355003]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/110","name":"Lab d'innovation - CAP' au Lab - Académie de Limoges (87)","site":"http://pedagogie.ac-limoges.fr/cardie/#\u0026panel1-5"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[3.93,43.587]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/297","name":"Tiers lieu et FabLab - L'atteslier - Lattes (34)","site":"https://www.latteslier.fr en construction"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1612688,49.1193891]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/217","name":"FabLab - Graoulab - Metz (57)","site":"http://graoulab.org"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.5319354,48.9071422]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/59","name":"FabLab - Collège Louise Michel - Clichy sous Bois (93)","site":"http://michel-clichysousbois.webcollege.fr/fablab/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1975843,48.694032]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/212","name":"FabLab et Living Lab - Lorraine Fab Living Lab (LF2L) - Université de Lorraine","site":"http://lf2l.fr/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.14899,49.1004609]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/222","name":"Atelier Canopé - Le Li’Lab - Montigny-lès-Metz (57)","site":"https://www.reseau-canope.fr/academie-de-nancy-metz/atelier-canope-57-montigny-les-metz.html"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.39192,48.85515]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/209","name":"FabLab, Le Petit Fablab de Paris (75)","site":"http://lepetitfablabdeparis.fr/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.3859127,48.8923631]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/215","name":"FabLab - Villette Makerz - Paris (19ème)","site":"https://villettemakerz.com/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.5454939,48.9590935]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/219","name":"Fablab - Lycée Jean Rostand - Villepinte","site":"https://sites.google.com/lycee-jeanrostand.fr/fablab/accueil?authuser=0"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.304063,48.343493]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/264","name":"FabLab - L'inspirateur - Vallée de Villé (69)","site":"http://fablab-linspirateur.fr/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[3.1339252,50.6402385]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/221","name":"FabLab et atelier de création - CREAlab ESPE Villeneuve-d'Ascq (59)","site":"https://www.kisskissbankbank.com/fr/projects/le-crealab-pour-des-enseignants-et-des-eleves-heureux-et-creatifs"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.1845466,48.895266]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/223","name":"Hackerspace - Electrolab - Nanterre (92)","site":"https://www.electrolab.fr/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.2538895,48.9603738]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/226","name":"FabLab - Fab’ariane - Argenteuil (95)","site":"http://www.clg-ariane-argenteuil.ac-versailles.fr/spip.php?article131"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.4008818,48.8598441]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/227","name":"FabLab - BiblioFab (itinérant) - Paris (75)","site":"https://cyrzbib.net/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.8212591,46.1638747]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/225","name":"Makerspace - La Machinerie d’Alex, CDI du collège Henri Varenne - Saint-Eloy-Les-Mines (63)","site":"https://www.facebook.com/LaMachinerieDAlex/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.3372549,47.74235]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/229","name":"Lieu de découverte - KidsLab - Mulhouse (68)","site":"http://kidslab.education/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.8839226,42.7173668]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/213","name":"Tiers Lab - Lycée Aristide Maillol - Perpignan (66)","site":""}},{"type":"Feature","geometry":{"type":"Point","coordinates":[2.3197712,48.8569578]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/232","name":"Lab d'innovation - 110 bis, le lab du ministère de l'Education nationale - Paris (75)","site":"http://www.education.gouv.fr/110bislab/cid130754/presentation-du-110-bis-lab-d-innovation-de-l-education-nationale.html#Informations_generales"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.7617066,48.5739688]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/224","name":"AV-Lab -- Shadok","site":"https://www.av-lab.net/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[7.7642658,48.5790692]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/216","name":"Réseau des FabLabs Unistra","site":"http://entreprises.unistra.fr/innover/fab-lab-et-outsourcing/"}},{"type":"Feature","geometry":{"type":"Point","coordinates":[6.1319663,48.652473]},"properties":{"forum":"https://forum.tierslieuxedu.org/t/218","name":"FabLab - Lab'Cesi, Campus d'enseignement supérieur et de formation professionelle - Nancy (54)","site":"https://nancy.cesi.fr/fablab/"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0410738,
+          49.2540537
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/302",
+        "name": "Numilab Canopé 51",
+        "site": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-51-reims.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2523779,
+          45.8355003
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/110",
+        "name": "Lab d'innovation - CAP' au Lab - Académie de Limoges (87)",
+        "site": "http://pedagogie.ac-limoges.fr/cardie/#\u0026panel1-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14899,
+          49.1004609
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/222",
+        "name": "Atelier Canopé - Le Li’Lab - Montigny-lès-Metz (57)",
+        "site": "https://www.reseau-canope.fr/academie-de-nancy-metz/atelier-canope-57-montigny-les-metz.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.407437,
+          48.84803
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/259",
+        "name": "FabLab - cité scolaire Hélène Boucher - Paris (20ème)",
+        "site": "à venir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.93,
+          43.587
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/297",
+        "name": "Tiers lieu et FabLab - L'atteslier - Lattes (34)",
+        "site": "https://www.latteslier.fr en construction"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1612688,
+          49.1193891
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/217",
+        "name": "FabLab - Graoulab - Metz (57)",
+        "site": "http://graoulab.org"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5319354,
+          48.9071422
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/59",
+        "name": "FabLab - Collège Louise Michel - Clichy sous Bois (93)",
+        "site": "http://michel-clichysousbois.webcollege.fr/fablab/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1975843,
+          48.694032
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/212",
+        "name": "FabLab et Living Lab - Lorraine Fab Living Lab (LF2L) - Université de Lorraine",
+        "site": "http://lf2l.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.39192,
+          48.85515
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/209",
+        "name": "FabLab, Le Petit Fablab de Paris (75)",
+        "site": "http://lepetitfablabdeparis.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3859127,
+          48.8923631
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/215",
+        "name": "FabLab - Villette Makerz - Paris (19ème)",
+        "site": "https://villettemakerz.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5454939,
+          48.9590935
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/219",
+        "name": "Fablab - Lycée Jean Rostand - Villepinte",
+        "site": "https://sites.google.com/lycee-jeanrostand.fr/fablab/accueil?authuser=0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.304063,
+          48.343493
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/264",
+        "name": "FabLab - L'inspirateur - Vallée de Villé (69)",
+        "site": "http://fablab-linspirateur.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1339252,
+          50.6402385
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/221",
+        "name": "FabLab et atelier de création - CREAlab ESPE Villeneuve-d'Ascq (59)",
+        "site": "https://www.kisskissbankbank.com/fr/projects/le-crealab-pour-des-enseignants-et-des-eleves-heureux-et-creatifs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1845466,
+          48.895266
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/223",
+        "name": "Hackerspace - Electrolab - Nanterre (92)",
+        "site": "https://www.electrolab.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2538895,
+          48.9603738
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/226",
+        "name": "FabLab - Fab’ariane - Argenteuil (95)",
+        "site": "http://www.clg-ariane-argenteuil.ac-versailles.fr/spip.php?article131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4008818,
+          48.8598441
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/227",
+        "name": "FabLab - BiblioFab (itinérant) - Paris (75)",
+        "site": "https://cyrzbib.net/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8212591,
+          46.1638747
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/225",
+        "name": "Makerspace - La Machinerie d’Alex, CDI du collège Henri Varenne - Saint-Eloy-Les-Mines (63)",
+        "site": "https://www.facebook.com/LaMachinerieDAlex/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3372549,
+          47.74235
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/229",
+        "name": "Lieu de découverte - KidsLab - Mulhouse (68)",
+        "site": "http://kidslab.education/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8839226,
+          42.7173668
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/213",
+        "name": "Tiers Lab - Lycée Aristide Maillol - Perpignan (66)",
+        "site": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3197712,
+          48.8569578
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/232",
+        "name": "Lab d'innovation - 110 bis, le lab du ministère de l'Education nationale - Paris (75)",
+        "site": "http://www.education.gouv.fr/110bislab/cid130754/presentation-du-110-bis-lab-d-innovation-de-l-education-nationale.html#Informations_generales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7617066,
+          48.5739688
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/224",
+        "name": "AV-Lab -- Shadok",
+        "site": "https://www.av-lab.net/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7642658,
+          48.5790692
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/216",
+        "name": "Réseau des FabLabs Unistra",
+        "site": "http://entreprises.unistra.fr/innover/fab-lab-et-outsourcing/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1319663,
+          48.652473
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/218",
+        "name": "FabLab - Lab'Cesi, Campus d'enseignement supérieur et de formation professionelle - Nancy (54)",
+        "site": "https://nancy.cesi.fr/fablab/"
+      }
+    }
+  ]
+}
