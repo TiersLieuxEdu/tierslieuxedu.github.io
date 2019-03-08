@@ -6,14 +6,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.0410738,
-          49.2540537
+          7.694356441497801,
+          48.56017168411245
         ]
       },
       "properties": {
-        "forum": "https://forum.tierslieuxedu.org/t/302",
-        "name": "Numilab Canopé 51",
-        "site": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-51-reims.html"
+        "forum": "https://forum.tierslieuxedu.org/t/152",
+        "name": "Lab'Cesi Strasbourg",
+        "site": "https://strasbourg.cesi.fr/fablab/"
       }
     },
     {
@@ -29,6 +29,51 @@
         "forum": "https://forum.tierslieuxedu.org/t/110",
         "name": "Lab d'innovation - CAP' au Lab - Académie de Limoges (87)",
         "site": "http://pedagogie.ac-limoges.fr/cardie/#\u0026panel1-5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35669,
+          48.84771
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/334",
+        "name": "FabLab - Sorbonne Université (75)",
+        "site": "http://fablab.sorbonne-universites.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3197712,
+          48.8569578
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/232",
+        "name": "Lab d'innovation - 110 bis, le lab du ministère de l'Education nationale - Paris (75)",
+        "site": "http://www.education.gouv.fr/110bislab/cid130754/presentation-du-110-bis-lab-d-innovation-de-l-education-nationale.html#Informations_generales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0410738,
+          49.2540537
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/302",
+        "name": "Numilab - Canopé - 51",
+        "site": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-51-reims.html"
       }
     },
     {
@@ -291,21 +336,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.3197712,
-          48.8569578
-        ]
-      },
-      "properties": {
-        "forum": "https://forum.tierslieuxedu.org/t/232",
-        "name": "Lab d'innovation - 110 bis, le lab du ministère de l'Education nationale - Paris (75)",
-        "site": "http://www.education.gouv.fr/110bislab/cid130754/presentation-du-110-bis-lab-d-innovation-de-l-education-nationale.html#Informations_generales"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           7.7617066,
           48.5739688
         ]
@@ -345,6 +375,6 @@
         "name": "FabLab - Lab'Cesi, Campus d'enseignement supérieur et de formation professionelle - Nancy (54)",
         "site": "https://nancy.cesi.fr/fablab/"
       }
-    }
+    }    
   ]
 }
