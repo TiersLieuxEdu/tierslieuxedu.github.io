@@ -471,13 +471,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          48.9092087,
+          2.594882
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/582",
+        "name": "Ateliers autonomes - Ecole maternelle Michel Lefèvre - Courtry (77)",
+        "site": "https://example.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.046342099999947,
+          48.8822076
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/588",
+        "name": "CollègeLAB - Collège Van Gogh - Blénod-Lès-Pont-à-Mousson (54)",
+        "site": "https://archiclasse.education.fr/La-renovation-du-College-lab-Van-Gogh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           45.783553,
           4.884244
         ]
       },
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/593",
-        "name": "La Myne : les processus apprenants d’un tiers-lieu libre et open source",
+        "name": "La MYNE: processus apprenants d’un tiers-lieu libre et open source",
         "site": "https://www.lamyne.org"
       }
     }
