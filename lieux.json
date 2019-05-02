@@ -171,6 +171,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          7.3653237,
+          48.7387273
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/220",
+        "name": "Club Graines2Tech - Saverne (67)",
+        "site": "https://graines2tech.is4ri.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.1339252,
           50.6402385
         ]
@@ -237,7 +252,7 @@
       },
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/225",
-        "name": "Makerspace - La Machinerie d’Alex, CDI du collège Henri Varenne - Saint-Eloy-Les-Mines (63)",
+        "name": "Makerspace - La Machinerie d’Alex, CDI du collège Alexandre Varenne - Saint-Eloy-Les-Mines (63)",
         "site": "https://www.facebook.com/LaMachinerieDAlex/"
       }
     },
