@@ -525,6 +525,21 @@
         "name": "La MYNE: processus apprenants d’un tiers-lieu libre et open source",
         "site": "https://www.lamyne.org"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4531,
+          43.6187
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/646",
+        "name": "EDUL@b, tiers-lieux de co-formation pour les enseignant.e.s - Académie de Toulouse",
+        "site": "https://disciplines.ac-toulouse.fr/dane/"
+      }
     }
   ]
 }
