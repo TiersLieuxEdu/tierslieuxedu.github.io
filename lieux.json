@@ -486,21 +486,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          48.9092087,
-          2.594882
-        ]
-      },
-      "properties": {
-        "forum": "https://forum.tierslieuxedu.org/t/582",
-        "name": "Ateliers autonomes - Ecole maternelle Michel Lefèvre - Courtry (77)",
-        "site": "https://example.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6.046342099999947,
           48.8822076
         ]
@@ -539,6 +524,21 @@
         "forum": "https://forum.tierslieuxedu.org/t/646",
         "name": "EDUL@b, tiers-lieux de co-formation pour les enseignant.e.s - Académie de Toulouse",
         "site": "https://disciplines.ac-toulouse.fr/dane/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4509,
+          42.6984
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/714",
+        "name": "Makerspace - Lycée Professionnel Jean Nicoli - Bastia",
+        "site": "http://www.ac-corse.fr/innovation/Presentation-du-projet-So-liceanu-diventu-maker-se-construire-et-creer-avec-le-makerspace--au-Lycee-Jean-Nicolu-de_a314.html"
       }
     }
   ]
