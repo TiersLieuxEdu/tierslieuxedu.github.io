@@ -471,6 +471,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.3080555555555553,
+          49.89219444444444
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/526",
+        "name": "Espace de Formations individualisés - Académie d'Amiens ((60)",
+        "site": "https://greta.ac-amiens.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.2224,
           46.4033
         ]
@@ -584,6 +599,21 @@
         "forum": "https://forum.tierslieuxedu.org/t/919",
         "name": "eduLAB - Belgique",
         "site": "[http://www.edu-lab.be](http://www.edu-lab.be/)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2210555555555556,
+          50.74497222222222
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/921",
+        "name": "Atelier-EDU, Mouscron (BElgique)",
+        "site": "https://example.com"
       }
     }
   ]
