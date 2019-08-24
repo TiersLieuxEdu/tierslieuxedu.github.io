@@ -540,6 +540,51 @@
         "name": "Makerspace - Lycée Professionnel Jean Nicoli - Bastia",
         "site": "http://www.ac-corse.fr/innovation/Presentation-du-projet-So-liceanu-diventu-maker-se-construire-et-creer-avec-le-makerspace--au-Lycee-Jean-Nicolu-de_a314.html"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.498043,
+          48.40838
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/890",
+        "name": "Les Fabriques du Ponant à Brest",
+        "site": "http://lesfabriquesduponant.net/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93621,
+          43.130692
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/914",
+        "name": "L'ALTernativ' - Tiers lieu numérique et solidaire - Toulon 83",
+        "site": "https://www.fol83laligue.org/131-fol-du-var/1010-un-tiers-lieu-numerique-solidaire-alternativ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.472884,
+          50.476161
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/919",
+        "name": "eduLAB - Belgique",
+        "site": "[http://www.edu-lab.be](http://www.edu-lab.be/)"
+      }
     }
   ]
 }
