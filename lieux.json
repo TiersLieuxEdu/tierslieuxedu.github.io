@@ -598,7 +598,7 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/919",
         "name": "eduLAB - Belgique",
-        "site": "[http://www.edu-lab.be](http://www.edu-lab.be/)"
+        "site": "http://www.edu-lab.be"
       }
     },
     {
@@ -614,6 +614,21 @@
         "forum": "https://forum.tierslieuxedu.org/t/921",
         "name": "Atelier-EDU, Mouscron (BElgique)",
         "site": "https://example.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.916903,
+          43.636381
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/1015",
+        "name": "@cadémie numérique - Tiers-lab Castelnau-le-Lez (34)",
+        "site": "https://www.academienumerique.fr"
       }
     }
   ]
