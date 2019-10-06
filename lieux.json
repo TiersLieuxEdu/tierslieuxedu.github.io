@@ -36,6 +36,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.9237801,
+          42.7400147
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/132",
+        "name": "Tiers Lab - Collège Jean Rous - Perpignan (66 )",
+        "site": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           7.694356441497801,
           48.56017168411245
         ]
