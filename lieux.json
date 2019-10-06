@@ -366,6 +366,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.67376,
+          48.119665
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/293",
+        "name": "Interactik / Coopératives pédagogiques numériques en Bretagne",
+        "site": "https://www.interactik.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           3.93,
           43.587
         ]
@@ -509,6 +524,21 @@
         "forum": "https://forum.tierslieuxedu.org/t/551",
         "name": "Labo IRREEL (tiers-lieu) - Lycée Henri Parriat - Montceau-Les-Mines (71)",
         "site": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8081726000000344,
+          47.8249324
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/585",
+        "name": "Salle de classe (3D et projets transdisciplinaires) - Ecole Primaire la Roche des Grees -Guipry Messac (35)",
+        "site": "http://spiderwan.free.fr/projet-impression3D/index.html"
       }
     },
     {
