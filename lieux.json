@@ -21,6 +21,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          2.4977343,
+          48.9291425
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/63",
+        "name": "Fablab - bibliothèque d'Aulnay-sous-Bois (93)",
+        "site": "https://espacenumeriqueaulnay.blogspot.com/search/label/fablab"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.2523779,
           45.8355003
         ]
@@ -411,6 +426,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.5551008,
+          47.1787307
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/325",
+        "name": "HUMANLAB - Rezé (44)",
+        "site": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           2.35669,
           48.84771
         ]
@@ -531,6 +561,36 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          3.7922305,
+          47.8112704
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/564",
+        "name": "Tiers-lieu \"Salle Paul Chytelman, lieu d'avenir\" - Collège Pierre et Jean Lerouge - Chablis (89)",
+        "site": "https://example.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5925664,
+          48.9102494
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/582",
+        "name": "Ateliers autonomes - Ecole maternelle Michel Lefèvre - Courtry (77)",
+        "site": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.8081726000000344,
           47.8249324
         ]
@@ -621,6 +681,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          4.8340447,
+          45.7457785
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/911",
+        "name": "Les petits plus - école maternelle au sein d'un tiers-lieu dédié à l'innovation sociale - by Luko",
+        "site": "https://www.entrepreneur-educatif.com/tiers-lieu-educatif"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           5.93621,
           43.130692
         ]
@@ -674,6 +749,96 @@
         "forum": "https://forum.tierslieuxedu.org/t/1015",
         "name": "@cadémie numérique - Tiers-lab Castelnau-le-Lez (34)",
         "site": "https://www.academienumerique.fr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0280262,
+          50.6327202
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/1023",
+        "name": "FabLab en kit, Lille",
+        "site": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.763112,
+          45.7833943
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/1024",
+        "name": "Lab'CESI Ecully",
+        "site": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3059827,
+          49.892266
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/1025",
+        "name": "La Machinerie Amiens",
+        "site": "https://lamachinerie.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.9881151,
+          47.6683172
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/1026",
+        "name": "La FABrique du loch",
+        "site": "https://www.lafabriqueduloch.org/fr/accueil/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3529726,
+          48.8464441
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/1027",
+        "name": "Le fablab Sorbonne Université",
+        "site": "http://fablab.sorbonne-universites.fr/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4343371,
+          45.563912
+        ]
+      },
+      "properties": {
+        "forum": "https://forum.tierslieuxedu.org/t/1028",
+        "name": "Luz’In, ac Grenoble",
+        "site": ""
       }
     }
   ]
