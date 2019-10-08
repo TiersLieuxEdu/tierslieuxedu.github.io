@@ -11,9 +11,13 @@
         ]
       },
       "properties": {
+        "college": true,
         "forum": "https://forum.tierslieuxedu.org/t/59",
         "name": "FabLab - Collège Louise Michel - Clichy sous Bois (93)",
-        "site": "http://michel-clichysousbois.webcollege.fr/fablab/"
+        "site": "http://michel-clichysousbois.webcollege.fr/fablab/",
+        "tags": [
+          "college"
+        ]
       }
     },
     {
@@ -26,9 +30,13 @@
         ]
       },
       "properties": {
+        "Fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/63",
         "name": "Fablab - bibliothèque d'Aulnay-sous-Bois (93)",
-        "site": "https://espacenumeriqueaulnay.blogspot.com/search/label/fablab"
+        "site": "https://espacenumeriqueaulnay.blogspot.com/search/label/fablab",
+        "tags": [
+          "Fablab"
+        ]
       }
     },
     {
@@ -41,9 +49,13 @@
         ]
       },
       "properties": {
+        "Lab": true,
         "forum": "https://forum.tierslieuxedu.org/t/110",
         "name": "Lab d'innovation - CAP' au Lab - Académie de Limoges (87)",
-        "site": "http://pedagogie.ac-limoges.fr/cardie/#\u0026panel1-5"
+        "site": "http://pedagogie.ac-limoges.fr/cardie/#\u0026panel1-5",
+        "tags": [
+          "Lab"
+        ]
       }
     },
     {
@@ -56,9 +68,15 @@
         ]
       },
       "properties": {
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/132",
         "name": "Tiers Lab - Collège Jean Rous - Perpignan (66 )",
-        "site": ""
+        "site": "",
+        "tags": [
+          "tiers-lab",
+          "fablab"
+        ],
+        "tiers-lab": true
       }
     },
     {
@@ -71,9 +89,15 @@
         ]
       },
       "properties": {
+        "educsup": true,
         "forum": "https://forum.tierslieuxedu.org/t/152",
+        "labcesi": true,
         "name": "Lab'Cesi Strasbourg (67)",
-        "site": "https://strasbourg.cesi.fr/fablab/"
+        "site": "https://strasbourg.cesi.fr/fablab/",
+        "tags": [
+          "labcesi",
+          "educsup"
+        ]
       }
     },
     {
@@ -86,9 +110,17 @@
         ]
       },
       "properties": {
+        "education": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/209",
         "name": "FabLab, Le Petit Fablab de Paris (75)",
-        "site": "http://lepetitfablabdeparis.fr/"
+        "populaire": true,
+        "site": "http://lepetitfablabdeparis.fr/",
+        "tags": [
+          "fablab",
+          "education",
+          "populaire"
+        ]
       }
     },
     {
@@ -101,9 +133,15 @@
         ]
       },
       "properties": {
+        "educsup": true,
         "forum": "https://forum.tierslieuxedu.org/t/212",
         "name": "FabLab et Living Lab - Lorraine Fab Living Lab (LF2L) - Université de Lorraine",
-        "site": "http://lf2l.fr/"
+        "site": "http://lf2l.fr/",
+        "tags": [
+          "educsup",
+          "université"
+        ],
+        "université": true
       }
     },
     {
@@ -116,9 +154,13 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
         "forum": "https://forum.tierslieuxedu.org/t/213",
         "name": "Tiers Lab - Lycée Aristide Maillol - Perpignan (66)",
-        "site": ""
+        "site": "",
+        "tags": [
+          "ArchiLab"
+        ]
       }
     },
     {
@@ -131,9 +173,13 @@
         ]
       },
       "properties": {
+        "Fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/215",
         "name": "FabLab - Villette Makerz - Paris (19ème)",
-        "site": "https://villettemakerz.com/"
+        "site": "https://villettemakerz.com/",
+        "tags": [
+          "Fablab"
+        ]
       }
     },
     {
@@ -146,9 +192,15 @@
         ]
       },
       "properties": {
+        "educsup": true,
         "forum": "https://forum.tierslieuxedu.org/t/216",
         "name": "Réseau des FabLabs Unistra",
-        "site": "http://entreprises.unistra.fr/innover/fab-lab-et-outsourcing/"
+        "site": "http://entreprises.unistra.fr/innover/fab-lab-et-outsourcing/",
+        "tags": [
+          "educsup",
+          "université"
+        ],
+        "université": true
       }
     },
     {
@@ -161,9 +213,15 @@
         ]
       },
       "properties": {
+        "IUT": true,
+        "Robotique": true,
         "forum": "https://forum.tierslieuxedu.org/t/217",
         "name": "FabLab - Graoulab - Metz (57)",
-        "site": "http://graoulab.org"
+        "site": "http://graoulab.org",
+        "tags": [
+          "IUT",
+          "Robotique"
+        ]
       }
     },
     {
@@ -176,9 +234,15 @@
         ]
       },
       "properties": {
+        "educsup": true,
         "forum": "https://forum.tierslieuxedu.org/t/218",
+        "labcesi": true,
         "name": "FabLab - Lab'Cesi, Campus d'enseignement supérieur et de formation professionelle - Nancy (54)",
-        "site": "https://nancy.cesi.fr/fablab/"
+        "site": "https://nancy.cesi.fr/fablab/",
+        "tags": [
+          "labcesi",
+          "educsup"
+        ]
       }
     },
     {
@@ -191,9 +255,13 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
         "forum": "https://forum.tierslieuxedu.org/t/219",
         "name": "Fablab - Lycée Jean Rostand - Villepinte",
-        "site": "https://sites.google.com/lycee-jeanrostand.fr/fablab/accueil?authuser=0"
+        "site": "https://sites.google.com/lycee-jeanrostand.fr/fablab/accueil?authuser=0",
+        "tags": [
+          "ArchiLab"
+        ]
       }
     },
     {
@@ -206,9 +274,13 @@
         ]
       },
       "properties": {
+        "club": true,
         "forum": "https://forum.tierslieuxedu.org/t/220",
         "name": "Club Graines2Tech - Saverne (67)",
-        "site": "https://graines2tech.is4ri.com/"
+        "site": "https://graines2tech.is4ri.com/",
+        "tags": [
+          "club"
+        ]
       }
     },
     {
@@ -221,9 +293,13 @@
         ]
       },
       "properties": {
+        "ESPE": true,
         "forum": "https://forum.tierslieuxedu.org/t/221",
         "name": "FabLab et atelier de création - CREAlab ESPE Villeneuve-d'Ascq (59)",
-        "site": "https://www.kisskissbankbank.com/fr/projects/le-crealab-pour-des-enseignants-et-des-eleves-heureux-et-creatifs"
+        "site": "https://www.kisskissbankbank.com/fr/projects/le-crealab-pour-des-enseignants-et-des-eleves-heureux-et-creatifs",
+        "tags": [
+          "ESPE"
+        ]
       }
     },
     {
@@ -236,9 +312,15 @@
         ]
       },
       "properties": {
+        "Canopé": true,
+        "Livinglab": true,
         "forum": "https://forum.tierslieuxedu.org/t/222",
         "name": "Atelier Canopé - Le Li’Lab - Montigny-lès-Metz (57)",
-        "site": "https://www.reseau-canope.fr/academie-de-nancy-metz/atelier-canope-57-montigny-les-metz.html"
+        "site": "https://www.reseau-canope.fr/academie-de-nancy-metz/atelier-canope-57-montigny-les-metz.html",
+        "tags": [
+          "Canopé",
+          "Livinglab"
+        ]
       }
     },
     {
@@ -252,8 +334,12 @@
       },
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/223",
+        "hackerspace": true,
         "name": "Hackerspace - Electrolab - Nanterre (92)",
-        "site": "https://www.electrolab.fr/"
+        "site": "https://www.electrolab.fr/",
+        "tags": [
+          "hackerspace"
+        ]
       }
     },
     {
@@ -268,7 +354,11 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/224",
         "name": "FabLab - AV-Lab - Shadok (Strasbourg 67)",
-        "site": "https://www.av-lab.net/"
+        "site": "https://www.av-lab.net/",
+        "solidaire": true,
+        "tags": [
+          "solidaire"
+        ]
       }
     },
     {
@@ -281,9 +371,17 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
+        "CDI": true,
         "forum": "https://forum.tierslieuxedu.org/t/225",
+        "makerspace": true,
         "name": "Makerspace - La Machinerie d’Alex, CDI du collège Alexandre Varenne - Saint-Eloy-Les-Mines (63)",
-        "site": "https://www.facebook.com/LaMachinerieDAlex/"
+        "site": "https://www.facebook.com/LaMachinerieDAlex/",
+        "tags": [
+          "makerspace",
+          "CDI",
+          "ArchiLab"
+        ]
       }
     },
     {
@@ -296,9 +394,13 @@
         ]
       },
       "properties": {
+        "Fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/226",
         "name": "FabLab - Fab’ariane - Argenteuil (95)",
-        "site": "http://www.clg-ariane-argenteuil.ac-versailles.fr/spip.php?article131"
+        "site": "http://www.clg-ariane-argenteuil.ac-versailles.fr/spip.php?article131",
+        "tags": [
+          "Fablab"
+        ]
       }
     },
     {
@@ -313,7 +415,13 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/227",
         "name": "FabLab - BiblioFab (itinérant) - Paris (75)",
-        "site": "https://cyrzbib.net/"
+        "site": "https://cyrzbib.net/",
+        "tag1": true,
+        "tag2": true,
+        "tags": [
+          "tag1",
+          "tag2"
+        ]
       }
     },
     {
@@ -326,9 +434,13 @@
         ]
       },
       "properties": {
+        "club": true,
         "forum": "https://forum.tierslieuxedu.org/t/229",
         "name": "Lieu de découverte - KidsLab - Mulhouse (68)",
-        "site": "http://kidslab.education/"
+        "site": "http://kidslab.education/",
+        "tags": [
+          "club"
+        ]
       }
     },
     {
@@ -341,9 +453,15 @@
         ]
       },
       "properties": {
+        "Ministère": true,
+        "bis": true,
         "forum": "https://forum.tierslieuxedu.org/t/232",
         "name": "Lab d'innovation - 110 bis, le lab du Ministère de l'Education nationale - Paris (75)",
-        "site": "http://www.education.gouv.fr/110bislab/cid130754/presentation-du-110-bis-lab-d-innovation-de-l-education-nationale.html#Informations_generales"
+        "site": "http://www.education.gouv.fr/110bislab/cid130754/presentation-du-110-bis-lab-d-innovation-de-l-education-nationale.html#Informations_generales",
+        "tags": [
+          "Ministère",
+          "bis"
+        ]
       }
     },
     {
@@ -358,7 +476,8 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/259",
         "name": "FabLab - cité scolaire Hélène Boucher - Paris (20ème)",
-        "site": "à venir"
+        "site": "à venir",
+        "tags": null
       }
     },
     {
@@ -373,7 +492,8 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/264",
         "name": "FabLab - L'inspirateur - Vallée de Villé (69)",
-        "site": "http://fablab-linspirateur.fr/"
+        "site": "http://fablab-linspirateur.fr/",
+        "tags": null
       }
     },
     {
@@ -388,7 +508,11 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/293",
         "name": "Interactik / Coopératives pédagogiques numériques en Bretagne",
-        "site": "https://www.interactik.fr"
+        "site": "https://www.interactik.fr",
+        "tags": [
+          "tierslieux"
+        ],
+        "tierslieux": true
       }
     },
     {
@@ -401,9 +525,15 @@
         ]
       },
       "properties": {
+        "Tierslieu": true,
         "forum": "https://forum.tierslieuxedu.org/t/297",
         "name": "Tiers lieu et FabLab - L'atteslier - Lattes (34)",
-        "site": "https://www.latteslier.fr en construction"
+        "projets": true,
+        "site": "https://www.latteslier.fr en construction",
+        "tags": [
+          "Tierslieu",
+          "projets"
+        ]
       }
     },
     {
@@ -416,9 +546,15 @@
         ]
       },
       "properties": {
+        "Canopé": true,
+        "Medialab": true,
         "forum": "https://forum.tierslieuxedu.org/t/302",
         "name": "Numilab - Canopé - 51",
-        "site": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-51-reims.html"
+        "site": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-51-reims.html",
+        "tags": [
+          "Canopé",
+          "Medialab"
+        ]
       }
     },
     {
@@ -431,9 +567,15 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/325",
         "name": "HUMANLAB - Rezé (44)",
-        "site": ""
+        "site": "",
+        "tags": [
+          "fablab",
+          "ArchiLab"
+        ]
       }
     },
     {
@@ -446,9 +588,21 @@
         ]
       },
       "properties": {
+        "educsup": true,
+        "entrepreneuriat": true,
         "forum": "https://forum.tierslieuxedu.org/t/334",
         "name": "FabLab - Sorbonne Université (75)",
-        "site": "http://fablab.sorbonne-universites.fr"
+        "scienceseduc": true,
+        "sciencesparticipatives": true,
+        "site": "http://fablab.sorbonne-universites.fr",
+        "tags": [
+          "educsup",
+          "université",
+          "sciencesparticipatives",
+          "entrepreneuriat",
+          "scienceseduc"
+        ],
+        "université": true
       }
     },
     {
@@ -461,9 +615,25 @@
         ]
       },
       "properties": {
+        "campus": true,
+        "fabcity": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/409",
+        "innovation": true,
+        "intelligencecollective": true,
         "name": "UBO Open Factory",
-        "site": "http://uboopenfactory.univ-brest.fr"
+        "openinnovation": true,
+        "pedagogie": true,
+        "site": "http://uboopenfactory.univ-brest.fr",
+        "tags": [
+          "campus",
+          "openinnovation",
+          "fablab",
+          "pedagogie",
+          "innovation",
+          "intelligencecollective",
+          "fabcity"
+        ]
       }
     },
     {
@@ -476,9 +646,17 @@
         ]
       },
       "properties": {
+        "campus": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/413",
+        "labfab": true,
         "name": "LabFab - Université Rennes 1 - Rennes (35)",
-        "site": "https://labfab.univ-rennes1.fr"
+        "site": "https://labfab.univ-rennes1.fr",
+        "tags": [
+          "campus",
+          "fablab",
+          "labfab"
+        ]
       }
     },
     {
@@ -491,9 +669,15 @@
         ]
       },
       "properties": {
+        "campus": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/414",
         "name": "Faironnerie abc",
-        "site": "https://faironnerie-abc.xyz/"
+        "site": "https://faironnerie-abc.xyz/",
+        "tags": [
+          "campus",
+          "fablab"
+        ]
       }
     },
     {
@@ -506,9 +690,15 @@
         ]
       },
       "properties": {
+        "campus": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/415",
         "name": "FabLab IUT d'Alençon - Université de Caen Normandie - Damigny (61)",
-        "site": "http://iut-alencon.unicaen.fr/fab-lab"
+        "site": "http://iut-alencon.unicaen.fr/fab-lab",
+        "tags": [
+          "campus",
+          "fablab"
+        ]
       }
     },
     {
@@ -521,9 +711,15 @@
         ]
       },
       "properties": {
+        "campus": true,
         "forum": "https://forum.tierslieuxedu.org/t/417",
+        "learningcenter": true,
         "name": "LILLIAD Learnig Center Innovation",
-        "site": "https://lilliad.univ-lille.fr"
+        "site": "https://lilliad.univ-lille.fr",
+        "tags": [
+          "campus",
+          "learningcenter"
+        ]
       }
     },
     {
@@ -536,9 +732,15 @@
         ]
       },
       "properties": {
+        "accompagnement": true,
         "forum": "https://forum.tierslieuxedu.org/t/526",
+        "individualisation": true,
         "name": "Espace de Formations individualisés - Académie d'Amiens ((60)",
-        "site": "https://greta.ac-amiens.fr"
+        "site": "https://greta.ac-amiens.fr",
+        "tags": [
+          "individualisation",
+          "accompagnement"
+        ]
       }
     },
     {
@@ -551,9 +753,23 @@
         ]
       },
       "properties": {
+        "expérimentations": true,
         "forum": "https://forum.tierslieuxedu.org/t/551",
+        "innovations": true,
         "name": "Labo IRREEL (tiers-lieu) - Lycée Henri Parriat - Montceau-Les-Mines (71)",
-        "site": ""
+        "numérique": true,
+        "pédagogiques": true,
+        "recherches": true,
+        "site": "",
+        "tags": [
+          "transformation",
+          "innovations",
+          "pédagogiques",
+          "numérique",
+          "recherches",
+          "expérimentations"
+        ],
+        "transformation": true
       }
     },
     {
@@ -568,7 +784,11 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/564",
         "name": "Tiers-lieu \"Salle Paul Chytelman, lieu d'avenir\" - Collège Pierre et Jean Lerouge - Chablis (89)",
-        "site": "https://example.com"
+        "site": "https://example.com",
+        "tags": [
+          "tierslieux"
+        ],
+        "tierslieux": true
       }
     },
     {
@@ -583,7 +803,11 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/582",
         "name": "Ateliers autonomes - Ecole maternelle Michel Lefèvre - Courtry (77)",
-        "site": ""
+        "site": "",
+        "tags": [
+          "tierslieux"
+        ],
+        "tierslieux": true
       }
     },
     {
@@ -597,8 +821,16 @@
       },
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/585",
+        "impression3D": true,
         "name": "Salle de classe (3D et projets transdisciplinaires) - Ecole Primaire la Roche des Grees -Guipry Messac (35)",
-        "site": "http://spiderwan.free.fr/projet-impression3D/index.html"
+        "projets": true,
+        "site": "http://spiderwan.free.fr/projet-impression3D/index.html",
+        "tags": [
+          "projets",
+          "trandisciplinaire",
+          "impression3D"
+        ],
+        "trandisciplinaire": true
       }
     },
     {
@@ -611,9 +843,17 @@
         ]
       },
       "properties": {
+        "CollègeLab": true,
+        "FormeScolaire": true,
         "forum": "https://forum.tierslieuxedu.org/t/588",
+        "mobilier": true,
         "name": "CollègeLAB - Collège Van Gogh - Blénod-Lès-Pont-à-Mousson (54)",
-        "site": "https://archiclasse.education.fr/La-renovation-du-College-lab-Van-Gogh"
+        "site": "https://archiclasse.education.fr/La-renovation-du-College-lab-Van-Gogh",
+        "tags": [
+          "CollègeLab",
+          "FormeScolaire",
+          "mobilier"
+        ]
       }
     },
     {
@@ -626,9 +866,17 @@
         ]
       },
       "properties": {
+        "communs": true,
         "forum": "https://forum.tierslieuxedu.org/t/593",
         "name": "La MYNE: processus apprenants d’un tiers-lieu libre et open source",
-        "site": "https://www.lamyne.org"
+        "recherche": true,
+        "site": "https://www.lamyne.org",
+        "tags": [
+          "recherche",
+          "communs",
+          "transitions"
+        ],
+        "transitions": true
       }
     },
     {
@@ -641,9 +889,15 @@
         ]
       },
       "properties": {
+        "coformation": true,
         "forum": "https://forum.tierslieuxedu.org/t/646",
+        "lab": true,
         "name": "EDUL@b, tiers-lieux de co-formation pour les enseignant.e.s - Académie de Toulouse",
-        "site": "https://disciplines.ac-toulouse.fr/dane/"
+        "site": "https://disciplines.ac-toulouse.fr/dane/",
+        "tags": [
+          "coformation",
+          "lab"
+        ]
       }
     },
     {
@@ -657,8 +911,14 @@
       },
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/714",
+        "lycée-professionnel": true,
+        "makerspace": true,
         "name": "Makerspace - Lycée Professionnel Jean Nicoli - Bastia",
-        "site": "http://www.ac-corse.fr/innovation/Presentation-du-projet-So-liceanu-diventu-maker-se-construire-et-creer-avec-le-makerspace--au-Lycee-Jean-Nicolu-de_a314.html"
+        "site": "http://www.ac-corse.fr/innovation/Presentation-du-projet-So-liceanu-diventu-maker-se-construire-et-creer-avec-le-makerspace--au-Lycee-Jean-Nicolu-de_a314.html",
+        "tags": [
+          "makerspace",
+          "lycée-professionnel"
+        ]
       }
     },
     {
@@ -671,9 +931,21 @@
         ]
       },
       "properties": {
+        "IMT": true,
+        "Pédagogie": true,
+        "fabcity": true,
         "forum": "https://forum.tierslieuxedu.org/t/890",
         "name": "Les Fabriques du Ponant à Brest",
-        "site": "http://lesfabriquesduponant.net/"
+        "petitsdébrouillards": true,
+        "science": true,
+        "site": "http://lesfabriquesduponant.net/",
+        "tags": [
+          "science",
+          "Pédagogie",
+          "petitsdébrouillards",
+          "IMT",
+          "fabcity"
+        ]
       }
     },
     {
@@ -688,7 +960,11 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/911",
         "name": "Les petits plus - école maternelle au sein d'un tiers-lieu dédié à l'innovation sociale - by Luko",
-        "site": "https://www.entrepreneur-educatif.com/tiers-lieu-educatif"
+        "site": "https://www.entrepreneur-educatif.com/tiers-lieu-educatif",
+        "tags": [
+          "tierslieux"
+        ],
+        "tierslieux": true
       }
     },
     {
@@ -703,7 +979,13 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/914",
         "name": "L'ALTernativ' - Tiers lieu numérique et solidaire - Toulon 83",
-        "site": "https://www.fol83laligue.org/131-fol-du-var/1010-un-tiers-lieu-numerique-solidaire-alternativ"
+        "site": "https://www.fol83laligue.org/131-fol-du-var/1010-un-tiers-lieu-numerique-solidaire-alternativ",
+        "tag1": true,
+        "tag2": true,
+        "tags": [
+          "tag1",
+          "tag2"
+        ]
       }
     },
     {
@@ -718,7 +1000,8 @@
       "properties": {
         "forum": "https://forum.tierslieuxedu.org/t/919",
         "name": "eduLAB - Belgique",
-        "site": "http://www.edu-lab.be"
+        "site": "http://www.edu-lab.be",
+        "tags": null
       }
     },
     {
@@ -731,9 +1014,25 @@
         ]
       },
       "properties": {
+        "PortailEduc": true,
+        "atelier": true,
+        "edu-LAB": true,
         "forum": "https://forum.tierslieuxedu.org/t/921",
+        "jeu": true,
+        "ludopédagogie": true,
         "name": "Atelier-EDU, Mouscron (BElgique)",
-        "site": "https://example.com"
+        "numérique": true,
+        "pédagogie": true,
+        "site": "https://example.com",
+        "tags": [
+          "atelier",
+          "edu-LAB",
+          "PortailEduc",
+          "numérique",
+          "pédagogie",
+          "jeu",
+          "ludopédagogie"
+        ]
       }
     },
     {
@@ -746,9 +1045,17 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1015",
         "name": "@cadémie numérique - Tiers-lab Castelnau-le-Lez (34)",
-        "site": "https://www.academienumerique.fr"
+        "site": "https://www.academienumerique.fr",
+        "tags": [
+          "tiers-lab",
+          "école",
+          "ArchiLab"
+        ],
+        "tiers-lab": true,
+        "école": true
       }
     },
     {
@@ -761,9 +1068,15 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1023",
         "name": "FabLab en kit, Lille",
-        "site": ""
+        "site": "",
+        "tFablab": true,
+        "tags": [
+          "tFablab",
+          "ArchiLab"
+        ]
       }
     },
     {
@@ -776,9 +1089,15 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
+        "Fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1024",
         "name": "Lab'CESI Ecully",
-        "site": ""
+        "site": "",
+        "tags": [
+          "Fablab",
+          "ArchiLab"
+        ]
       }
     },
     {
@@ -791,9 +1110,15 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1025",
         "name": "La Machinerie Amiens",
-        "site": "https://lamachinerie.org/"
+        "site": "https://lamachinerie.org/",
+        "tags": [
+          "fablab",
+          "ArchiLab"
+        ]
       }
     },
     {
@@ -806,9 +1131,15 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1026",
         "name": "La FABrique du loch",
-        "site": "https://www.lafabriqueduloch.org/fr/accueil/"
+        "site": "https://www.lafabriqueduloch.org/fr/accueil/",
+        "tags": [
+          "fablab",
+          "ArchiLab"
+        ]
       }
     },
     {
@@ -821,9 +1152,15 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1027",
         "name": "Le fablab Sorbonne Université",
-        "site": "http://fablab.sorbonne-universites.fr/"
+        "site": "http://fablab.sorbonne-universites.fr/",
+        "tags": [
+          "fablab",
+          "ArchiLab"
+        ]
       }
     },
     {
@@ -836,9 +1173,15 @@
         ]
       },
       "properties": {
+        "ArchiLab": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1028",
         "name": "Luz’In, ac Grenoble",
-        "site": ""
+        "site": "",
+        "tags": [
+          "fablab",
+          "ArchiLab"
+        ]
       }
     }
   ]
