@@ -213,6 +213,7 @@
         ]
       },
       "properties": {
+        "archilab": true,
         "forum": "https://forum.tierslieuxedu.org/t/217",
         "iut": true,
         "name": "FabLab - Graoulab - Metz (57)",
@@ -220,7 +221,8 @@
         "site": "http://graoulab.org",
         "tags": [
           "IUT",
-          "Robotique"
+          "Robotique",
+          "Archilab"
         ]
       }
     },
@@ -312,6 +314,7 @@
         ]
       },
       "properties": {
+        "archilab": true,
         "canopé": true,
         "forum": "https://forum.tierslieuxedu.org/t/222",
         "livinglab": true,
@@ -319,7 +322,8 @@
         "site": "https://www.reseau-canope.fr/academie-de-nancy-metz/atelier-canope-57-montigny-les-metz.html",
         "tags": [
           "Canopé",
-          "Livinglab"
+          "Livinglab",
+          "Archilab"
         ]
       }
     },
@@ -546,6 +550,7 @@
         ]
       },
       "properties": {
+        "archilab": true,
         "canopé": true,
         "forum": "https://forum.tierslieuxedu.org/t/302",
         "medialab": true,
@@ -553,7 +558,8 @@
         "site": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-51-reims.html",
         "tags": [
           "Canopé",
-          "Medialab"
+          "Medialab",
+          "Archilab"
         ]
       }
     },
