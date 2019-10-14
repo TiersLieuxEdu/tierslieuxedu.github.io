@@ -30,6 +30,9 @@ html, body {
   width: 100%;
   height: 100%;
 }
+dt:after {
+  content: ' : ';
+}
     </style>
   </head>
   <body class="w-100 h-100">
@@ -74,6 +77,15 @@ $( document ).ready(function() {
       if (feature.properties.forum) {
         popupContent += "<a href='" + feature.properties.forum + "'>Voir sur le forum</a>";
       }
+      popupContent += "<dl>";
+      if (feature.properties.tags) {
+        popupContent += "<dt>Tags</dt><dd><ul class='tags list-inline'>";
+        feature.properties.tags.forEach(a_tag => {
+          popupContent += "<li class='list-inline-item'>#" + a_tag + "</li>";          
+        });
+        popupContent += "</ul><dd>";
+      }
+      popupContent += "</dl>";
     }
 
     layer.bindPopup(popupContent);
