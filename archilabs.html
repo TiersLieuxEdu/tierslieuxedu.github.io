@@ -30,6 +30,10 @@ html, body {
   width: 100%;
   height: 100%;
 }
+
+dt:after {
+  content: '&nbsp;: ';
+}
     </style>
   </head>
   <body class="w-100 h-100">
@@ -77,16 +81,16 @@ $( document ).ready(function() {
       }
       popupContent += "<dl>";
       if (feature.properties.machines) {
-        popupContent += "<dt>Machines</dt>&nbsp;: <dd><ul class='machines list-inline'>";
+        popupContent += "<dt>Machines</dt><dd><ul class='machines list-inline'>";
         feature.properties.machines.forEach(a_machine => {
           popupContent += "<li class='list-inline-item'>" + a_machine + "</li>";          
         });
         popupContent += "</ul><dd>";
       }
       if (feature.properties.tags) {
-        popupContent += "<dt>Tags</dt>&nbsp;: <dd><ul class='tags list-inline'>";
+        popupContent += "<dt>Tags</dt><dd><ul class='tags list-inline'>";
         feature.properties.tags.forEach(a_tag => {
-          popupContent += "<li class='list-inline-item'>" + a_tag + "</li>";          
+          popupContent += "<li class='list-inline-item'>#" + a_tag + "</li>";          
         });
         popupContent += "</ul><dd>";
       }
