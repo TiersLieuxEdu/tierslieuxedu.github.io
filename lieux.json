@@ -169,14 +169,16 @@
       },
       "properties": {
         "adresse": "73 Avenue Pau Casals, 66000 Perpignan",
+        "archilab": true,
         "forum": "https://forum.tierslieuxedu.org/t/213",
         "machines": null,
         "name": "Tiers Lab - Lycée Aristide Maillol - Perpignan (66)",
         "site": "",
         "tags": [
-          "tierslab#ArchiLab"
+          "tierslab",
+          "ArchiLab"
         ],
-        "tierslab#archilab": true
+        "tierslab": true
       }
     },
     {
@@ -285,7 +287,20 @@
         "archilab": true,
         "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/219",
-        "machines": null,
+        "machines": [
+          "découpe",
+          "laser",
+          "découpe",
+          "vinyle",
+          "imprimante",
+          "3D",
+          "imprimante",
+          "couleur",
+          "outil",
+          "pour",
+          "découpe",
+          "bois"
+        ],
         "name": "Fablab - Lycée Jean Rostand - Villepinte",
         "site": "https://sites.google.com/lycee-jeanrostand.fr/fablab/accueil?authuser=0",
         "tags": [
@@ -326,13 +341,15 @@
       },
       "properties": {
         "adresse": "365 Bis Rue Jules Guesde59650 Villeneuve-d'Ascq",
+        "espe": true,
         "forum": "https://forum.tierslieuxedu.org/t/221",
-        "lab#espe": true,
+        "lab": true,
         "machines": null,
         "name": "FabLab et atelier de création - CREAlab ESPE Villeneuve-d'Ascq (59)",
         "site": "https://www.kisskissbankbank.com/fr/projects/le-crealab-pour-des-enseignants-et-des-eleves-heureux-et-creatifs",
         "tags": [
-          "Lab#ESPE"
+          "Lab",
+          "ESPE"
         ]
       }
     },
