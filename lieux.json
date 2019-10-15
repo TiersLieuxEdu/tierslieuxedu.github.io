@@ -245,7 +245,13 @@
         "archilab": true,
         "forum": "https://forum.tierslieuxedu.org/t/217",
         "iut": true,
-        "machines": null,
+        "machines": [
+          "découpe laser",
+          "découpe vinyle",
+          "imprimante 3D",
+          "imprimante couleur",
+          "outil pour découpe bois"
+        ],
         "name": "FabLab - Graoulab - Metz (57)",
         "robotique": true,
         "site": "http://graoulab.org",
@@ -367,7 +373,13 @@
         "canopé": true,
         "forum": "https://forum.tierslieuxedu.org/t/222",
         "livinglab": true,
-        "machines": null,
+        "machines": [
+          "découpe laser",
+          "découpe vinyle",
+          "imprimante 3D",
+          "imprimante couleur",
+          "outil pour découpe bois"
+        ],
         "name": "Atelier Canopé - Le Li’Lab - Montigny-lès-Metz (57)",
         "site": "https://www.reseau-canope.fr/academie-de-nancy-metz/atelier-canope-57-montigny-les-metz.html",
         "tags": [
@@ -631,7 +643,12 @@
         "archilab": true,
         "canopé": true,
         "forum": "https://forum.tierslieuxedu.org/t/302",
-        "machines": null,
+        "machines": [
+          "découpe laser",
+          "découpe vinyle",
+          "imprimante 3D",
+          "imprimante couleur"
+        ],
         "medialab": true,
         "name": "Numilab - Canopé - 51",
         "site": "https://www.reseau-canope.fr/academie-de-reims/atelier-canope-51-reims.html",
