@@ -171,7 +171,13 @@
         "adresse": "73 Avenue Pau Casals, 66000 Perpignan",
         "archilab": true,
         "forum": "https://forum.tierslieuxedu.org/t/213",
-        "machines": null,
+        "machines": [
+          "découpe laser",
+          "découpe vinyle",
+          "imprimante 3D",
+          "imprimante couleur",
+          "outil pour découpe bois"
+        ],
         "name": "Tiers Lab - Lycée Aristide Maillol - Perpignan (66)",
         "site": "",
         "tags": [
@@ -435,7 +441,7 @@
         ],
         "makerspace": true,
         "name": "Makerspace - La Machinerie d’Alex, CDI du collège Alexandre Varenne - Saint-Eloy-Les-Mines (63)",
-        "site": "https://www.facebook.com/LaMachinerieDAlex/",
+        "site": "https://lamachineriedalex.wordpress.com",
         "tags": [
           "makerspace",
           "CDI",
@@ -1318,7 +1324,7 @@
         ]
       },
       "properties": {
-        "adresse": "4 Place Jussieu75005 Paris",
+        "adresse": "4 Place Jussieu, 75005 Paris",
         "archilab": true,
         "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1027",
