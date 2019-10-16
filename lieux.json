@@ -1400,6 +1400,7 @@
       },
       "properties": {
         "adresse": "1 Rue Jacques de Corbière, 35150 AMANLIS",
+        "archilab": true,
         "educnum": true,
         "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1049",
@@ -1408,7 +1409,8 @@
         "site": "https://lafabrique-rocheauxfees.fr",
         "tags": [
           "FabLab",
-          "EducNum"
+          "EducNum",
+          "ArchiLab"
         ]
       }
     },
@@ -1423,6 +1425,7 @@
       },
       "properties": {
         "adresse": "2 Rue Louis Amoureux, 35150 JANZE",
+        "archilab": true,
         "educnum": true,
         "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1050",
@@ -1431,7 +1434,8 @@
         "site": "https://lafabrique-rocheauxfees.fr",
         "tags": [
           "FabLab",
-          "EducNum"
+          "EducNum",
+          "ArchiLab"
         ]
       }
     },
@@ -1446,6 +1450,7 @@
       },
       "properties": {
         "adresse": "2 rue du bocage, 85500 Chambretaud",
+        "archilab": true,
         "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1052",
         "machines": null,
@@ -1453,7 +1458,8 @@
         "site": "https://www.ludylab.fr/",
         "tags": [
           "fablab",
-          "tierslieuxedu"
+          "tierslieuxedu",
+          "ArchiLab"
         ],
         "tierslieuxedu": true
       }
