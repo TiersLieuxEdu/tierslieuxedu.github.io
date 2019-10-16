@@ -1388,6 +1388,75 @@
           "ArchiLab"
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4750927,
+          48.003654
+        ]
+      },
+      "properties": {
+        "adresse": "1 Rue Jacques de Corbière, 35150 AMANLIS",
+        "educnum": true,
+        "fablab": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1049",
+        "machines": null,
+        "name": "La Fabrique Amanlis",
+        "site": "https://lafabrique-rocheauxfees.fr",
+        "tags": [
+          "FabLab",
+          "EducNum"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4987264,
+          47.9581871
+        ]
+      },
+      "properties": {
+        "adresse": "2 Rue Louis Amoureux, 35150 JANZE",
+        "educnum": true,
+        "fablab": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1050",
+        "machines": null,
+        "name": "La Fabrique Janzé",
+        "site": "https://lafabrique-rocheauxfees.fr",
+        "tags": [
+          "FabLab",
+          "EducNum"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.962614799999983,
+          46.9222584
+        ]
+      },
+      "properties": {
+        "adresse": "2 rue du bocage, 85500 Chambretaud",
+        "fablab": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1052",
+        "machines": null,
+        "name": "Le LUDyLAB - en Vendée (85)",
+        "site": "https://www.ludylab.fr/",
+        "tags": [
+          "fablab",
+          "tierslieuxedu"
+        ],
+        "tierslieuxedu": true
+      }
     }
   ]
 }
