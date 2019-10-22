@@ -1450,7 +1450,6 @@
       },
       "properties": {
         "adresse": "2 rue du bocage, 85500 Chambretaud",
-        "archilab": true,
         "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/1052",
         "machines": null,
@@ -1458,10 +1457,38 @@
         "site": "https://www.ludylab.fr/",
         "tags": [
           "fablab",
-          "tierslieuxedu",
-          "ArchiLab"
+          "tierslieuxedu"
         ],
         "tierslieuxedu": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.167481,
+          48.705353
+        ]
+      },
+      "properties": {
+        "adresse": "5 avenue de metz54320 Maxeville",
+        "forum": "https://forum.tierslieuxedu.org/t/1069",
+        "lapiscine": true,
+        "lieux": true,
+        "machines": null,
+        "name": "La piscine maxeville 54",
+        "projets": true,
+        "ptitdeb": true,
+        "science": true,
+        "site": "https://sites.google.com/view/piscine-petitsdebrouillards/accueil",
+        "tags": [
+          "ptitdeb",
+          "science",
+          "lapiscine",
+          "lieux",
+          "projets"
+        ]
       }
     }
   ]
