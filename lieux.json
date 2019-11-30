@@ -272,16 +272,22 @@
         ]
       },
       "properties": {
-        "adresse": "plusieurs sites sur Nancy",
+        "adresse": "2 Bis Rue de Credence, 54600 Villers-lès-Nancy",
+        "cesi": true,
         "educsup": true,
+        "etrecesi": true,
+        "fablab": true,
         "forum": "https://forum.tierslieuxedu.org/t/218",
         "labcesi": true,
         "machines": null,
-        "name": "FabLab - Lab'Cesi, Campus d'enseignement supérieur et de formation professionelle - Nancy (54)",
+        "name": "Lab'Cesi Nancy (54) - FabLab - Cesi, Campus d'enseignement supérieur et de formation professionelle",
         "site": "https://nancy.cesi.fr/fablab/",
         "tags": [
           "labcesi",
-          "educsup"
+          "educsup",
+          "cesi",
+          "etrecesi",
+          "fablab"
         ]
       }
     },
@@ -1489,6 +1495,66 @@
           "lieux",
           "projets"
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.694356441497801,
+          48.56017168411245
+        ]
+      },
+      "properties": {
+        "adresse": "2 allée des Foulons67380 Lingolsheim",
+        "cesi": true,
+        "educsup": true,
+        "etrecesi": true,
+        "fablab": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1165",
+        "labcesi": true,
+        "machines": null,
+        "name": "Lab'Cesi Strasbourg (67) - FabLab - Cesi, Campus d'enseignement supérieur et de formation professionelle",
+        "site": "https://strasbourg.cesi.fr/fablab/",
+        "tags": [
+          "labcesi",
+          "educsup",
+          "etrecesi",
+          "cesi",
+          "fablab"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8839226,
+          42.7173668
+        ]
+      },
+      "properties": {
+        "adresse": "",
+        "competencesxxi": true,
+        "egalitedeschances": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1214",
+        "lieninterdegré": true,
+        "machines": null,
+        "mobilite": true,
+        "name": "Mobilab66 - Tiers Lieu itinérant dans les Pyrénées Orientales (66)",
+        "ruralité": true,
+        "site": "",
+        "tags": [
+          "Mobilite",
+          "Ruralité",
+          "TiersLab",
+          "LienInterDegré",
+          "EgaliteDesChances",
+          "CompetencesXXI"
+        ],
+        "tierslab": true
       }
     }
   ]
