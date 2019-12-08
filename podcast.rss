@@ -5,8 +5,16 @@
     <atom:link href="http://www.tierslieuxedu.org/podcast.rss" rel="self" type="application/rss+xml" />
     <title>Tiers-Lieux Edu</title>
     <googleplay:author>TiersLieuxEdu</googleplay:author>
+    <itunes:author>TiersLieuxEdu</itunes:author>
     <description>Le meilleur de l'association TiersLieuxEdu en audio.</description>
+    <itunes:subtitle>Le meilleur de l'association TiersLieuxEdu en audio ! </itunes:subtitle>
+    <itunes:summary>activité du forum, synthèse des évènements et salons, agenda à venir, valorisation de productions d’apprenants, interviews, etc</itunes:summary>
     <googleplay:image href="http://www.tierslieuxedu.org/tiers-lieux-edu-logo.jpg"/>
+    <itunes:image>
+      <url>http://www.tierslieuxedu.org/tiers-lieux-edu-logo.jpg</url>
+      <title>TiersLieuxEdu Logo</title>
+      <link>http://www.tierslieuxedu.org</link>
+    </itunes:image>
     <language>fr-fr</language>
     <link>https://forum.tierslieuxedu.org</link>
     <googleplay:category text="Education"/>
@@ -24,6 +32,7 @@
                  type="audio/mpeg" length="8766449"/>
       <itunes:duration>09:59</itunes:duration>
       <guid isPermaLink="false">tledunews201911+12</guid>
+      <link>https://forum.tierslieuxedu.org/t/lettres-dinformation-tiers-lieux-edu/1228/3</link>
     </item>
   </channel>
 </rss>
