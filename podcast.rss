@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Tiers-Lieux Edu</title>
+    <googleplay:author>TiersLieuxEdu</googleplay:author>
+    <description>Le meilleur de l'association TiersLieuxEdu en audio.</description>
+    <googleplay:image href="http://www.tierslieuxedu.org/tiers-lieux-edu-logo.jpg"/>
+    <language>fr-fr</language>
+    <link>https://forum.tierslieuxedu.org</link>
+    <googleplay:category text="Education"/>
+    <itunes:category text="Education"/>
+    <item>
+      <title>Newsletter d'Octobre-Novembre 2019</title>
+      <description>L'actualité d'octobre et novembre : Educatec-Educatice, MakerFaire, ReFFAO, Fair'Langue, Résidence 110bis, Cartographie, Forum, etc.</description>
+      <pubDate>Sun, 08 Dec 2019 17:00:00 GMT</pubDate>
+      <enclosure url="http://www.tierslieuxedu.org/podcast/2019-11+12-podcast-tledu.mp3"
+                 type="audio/mpeg" length="8766449"/>
+      <itunes:duration>09:59</itunes:duration>
+      <guid isPermaLink="false">tledunews201911+12</guid>
+    </item>
+  </channel>
+</rss>
