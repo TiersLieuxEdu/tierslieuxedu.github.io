@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <atom:link href="http://www.tierslieuxedu.org/podcast.rss" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.tierslieuxedu.org/podcast.rss" rel="self" type="application/rss+xml" />
     <title>Tiers-Lieux Edu</title>
     <googleplay:author>TiersLieuxEdu</googleplay:author>
     <itunes:author>TiersLieuxEdu</itunes:author>
@@ -10,11 +10,7 @@
     <itunes:subtitle>Le meilleur de l'association TiersLieuxEdu en audio ! </itunes:subtitle>
     <itunes:summary>activité du forum, synthèse des évènements et salons, agenda à venir, valorisation de productions d’apprenants, interviews, etc. TiersLieuxEdu favorise l’essaimage des tiers-lieux éducatifs en fédérant une communauté maillant le territoire à travers des rencontres, des outils, et des ressources.</itunes:summary>
     <googleplay:image href="http://www.tierslieuxedu.org/logo-tledu-white-3000x3000.png"/>
-    <itunes:image href="http://www.tierslieuxedu.org/logo-tledu-white-3000x3000.png">
-      <url>http://www.tierslieuxedu.org/tiers-lieux-edu-logo.jpg</url>
-      <title>TiersLieuxEdu Logo</title>
-      <link>http://www.tierslieuxedu.org</link>
-    </itunes:image>
+    <itunes:image href="http://www.tierslieuxedu.org/logo-tledu-white-3000x3000.png" />
     <language>fr-fr</language>
     <link>https://forum.tierslieuxedu.org</link>
     <googleplay:category text="Education"/>
