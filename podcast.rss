@@ -8,9 +8,9 @@
     <itunes:author>TiersLieuxEdu</itunes:author>
     <description>Le meilleur de l'association TiersLieuxEdu en audio.</description>
     <itunes:subtitle>Le meilleur de l'association TiersLieuxEdu en audio ! </itunes:subtitle>
-    <itunes:summary>activité du forum, synthèse des évènements et salons, agenda à venir, valorisation de productions d’apprenants, interviews, etc</itunes:summary>
+    <itunes:summary>activité du forum, synthèse des évènements et salons, agenda à venir, valorisation de productions d’apprenants, interviews, etc. TiersLieuxEdu favorise l’essaimage des tiers-lieux éducatifs en fédérant une communauté maillant le territoire à travers des rencontres, des outils, et des ressources.</itunes:summary>
     <googleplay:image href="http://www.tierslieuxedu.org/logo-tledu-white-3000x3000.png"/>
-    <itunes:image href="http://www.tierslieuxedu.org/logo-tledu-white-3000x3000.png"/>
+    <itunes:image href="http://www.tierslieuxedu.org/logo-tledu-white-3000x3000.png">
       <url>http://www.tierslieuxedu.org/tiers-lieux-edu-logo.jpg</url>
       <title>TiersLieuxEdu Logo</title>
       <link>http://www.tierslieuxedu.org</link>
