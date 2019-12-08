@@ -9,8 +9,8 @@
     <description>Le meilleur de l'association TiersLieuxEdu en audio.</description>
     <itunes:subtitle>Le meilleur de l'association TiersLieuxEdu en audio ! </itunes:subtitle>
     <itunes:summary>activité du forum, synthèse des évènements et salons, agenda à venir, valorisation de productions d’apprenants, interviews, etc</itunes:summary>
-    <googleplay:image href="http://www.tierslieuxedu.org/tiers-lieux-edu-logo.jpg"/>
-    <itunes:image>
+    <googleplay:image href="http://www.tierslieuxedu.org/logo-tledu-white-3000x3000.png"/>
+    <itunes:image href="http://www.tierslieuxedu.org/logo-tledu-white-3000x3000.png"/>
       <url>http://www.tierslieuxedu.org/tiers-lieux-edu-logo.jpg</url>
       <title>TiersLieuxEdu Logo</title>
       <link>http://www.tierslieuxedu.org</link>
@@ -24,6 +24,7 @@
       <itunes:email>contact@tierslieuxedu.org</itunes:email>
     </itunes:owner>
     <itunes:explicit>no</itunes:explicit>
+    <copyright>Licence Creative Commons Attribution 2.0 France - TiersLieuxEdu</copyright>
     <item>
       <title>Newsletter d'Octobre-Novembre 2019</title>
       <description>L'actualité d'octobre et novembre : Educatec-Educatice, MakerFaire, ReFFAO, Fair'Langue, Résidence 110bis, Cartographie, Forum, etc.</description>
@@ -33,6 +34,7 @@
       <itunes:duration>09:59</itunes:duration>
       <guid isPermaLink="false">tledunews201911+12</guid>
       <link>https://forum.tierslieuxedu.org/t/lettres-dinformation-tiers-lieux-edu/1228/3</link>
+      <itunes:explicit>no</itunes:explicit>
     </item>
   </channel>
 </rss>
