@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
+    <atom:link href="http://www.tierslieuxedu.org/podcast.rss" rel="self" type="application/rss+xml" />
     <title>Tiers-Lieux Edu</title>
     <googleplay:author>TiersLieuxEdu</googleplay:author>
     <description>Le meilleur de l'association TiersLieuxEdu en audio.</description>
@@ -10,6 +11,11 @@
     <link>https://forum.tierslieuxedu.org</link>
     <googleplay:category text="Education"/>
     <itunes:category text="Education"/>
+    <itunes:owner>
+      <itunes:name>TiersLieuxEdu</itunes:name>
+      <itunes:email>contact@tierslieuxedu.org</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
     <item>
       <title>Newsletter d'Octobre-Novembre 2019</title>
       <description>L'actualité d'octobre et novembre : Educatec-Educatice, MakerFaire, ReFFAO, Fair'Langue, Résidence 110bis, Cartographie, Forum, etc.</description>
