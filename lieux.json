@@ -645,14 +645,14 @@
         ]
       },
       "properties": {
-        "adresse": "17 boulevard de la Paiw51000 Reims",
+        "adresse": "17 boulevard de la Paix51000 Reims",
         "archilab": true,
         "canopé": true,
         "forum": "https://forum.tierslieuxedu.org/t/302",
         "machines": [
-          "découpe laser",
-          "découpe vinyle",
-          "imprimante 3D",
+          "découpe laser: Emblaser 2",
+          "découpe vinyle : Silhouette Caméo",
+          "imprimante 3D : Up mini et Ultimaker 2+",
           "imprimante couleur"
         ],
         "medialab": true,
