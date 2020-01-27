@@ -1556,6 +1556,75 @@
         ],
         "tierslab": true
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6646144,
+          48.1181696
+        ]
+      },
+      "properties": {
+        "adresse": "36 Rue de Kerichen29200 Brest",
+        "coopérative": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1381",
+        "interactik": true,
+        "machines": null,
+        "name": "Coopérative pédagogique numérique du Finistère - Site Vauban",
+        "site": "",
+        "tags": [
+          "coopérative",
+          "interactik"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.383139,
+          47.746048
+        ]
+      },
+      "properties": {
+        "adresse": "117 boulevard Léon Blum56100 Lorient",
+        "cooperative": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1382",
+        "interactik": true,
+        "machines": null,
+        "name": "Coopérative pédagogique numérique du Morbihan - Site Colbert",
+        "site": "",
+        "tags": [
+          "cooperative",
+          "interactik"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.67429,
+          48.112
+        ]
+      },
+      "properties": {
+        "adresse": "",
+        "fablab": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1421",
+        "humanlab": true,
+        "machines": null,
+        "name": "HumanLab de My Human Kit",
+        "site": "",
+        "tags": [
+          "fablab",
+          "humanlab"
+        ]
+      }
     }
   ]
 }
