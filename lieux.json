@@ -1625,6 +1625,33 @@
           "humanlab"
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1554003,
+          48.019689
+        ]
+      },
+      "properties": {
+        "adresse": "44 Avenue Frédéric Auguste Bartholdi72000 Le Mans",
+        "cesi": true,
+        "etrecesi": true,
+        "fablabs": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1532",
+        "labcesi": true,
+        "machines": null,
+        "name": "Lab'CESI Le Mans",
+        "site": "https://le-mans.cesi.fr/fablab/",
+        "tags": [
+          "labcesi",
+          "cesi",
+          "etrecesi",
+          "fablabs"
+        ]
+      }
     }
   ]
 }
