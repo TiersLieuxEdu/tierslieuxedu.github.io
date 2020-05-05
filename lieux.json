@@ -1652,6 +1652,27 @@
           "fablabs"
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.377929,
+          48.978064
+        ]
+      },
+      "properties": {
+        "adresse": "",
+        "fablab": true,
+        "forum": "https://forum.tierslieuxedu.org/t/1619",
+        "machines": null,
+        "name": "FabLab - FacLab® Numixs - Sarcelles (95)",
+        "site": "https://www.roissypaysdefrance.fr/entreprendre/numixs-lecosysteme-numerique-de-lagglo/le-faclabr-numixs",
+        "tags": [
+          "FabLab"
+        ]
+      }
     }
   ]
 }
