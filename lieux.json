@@ -1673,6 +1673,29 @@
           "FabLab"
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.232951,
+          43.349338
+        ]
+      },
+      "properties": {
+        "adresse": "25 Rue Ferdinand De Lesseps34500 Béziers",
+        "forum": "https://forum.tierslieuxedu.org/t/1636",
+        "machines": null,
+        "name": "Fablab - Fabul'eux LAB - Lycée Jean Mermoz - Béziers (34)",
+        "site": "https://fabuleux-lab.jimdosite.com/",
+        "tag1": true,
+        "tag2": true,
+        "tags": [
+          "tag1",
+          "tag2"
+        ]
+      }
     }
   ]
 }
